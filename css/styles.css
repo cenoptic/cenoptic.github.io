@@ -28,6 +28,11 @@ p{
     background-color: #000033;
 }
 
+.coloured-section-seperator{
+    color:white;
+    background-color: #07073c;
+}
+
 .splashPage-Section{
     background-image: url(../images/Space.jpg);
     background-size: cover;
@@ -330,7 +335,7 @@ p{
 }
 .card-body h4
 {
-    font-size: 30px;
+    font-size: 25px;
     color: white;
 }
 .card-body p
@@ -558,6 +563,7 @@ div.my-user-card p {
     font-size: 1rem;
     text-align: center;
     transition: background-color 0.5 ease;
+    margin: auto;
 }
 
 .services-feature-buttons:hover{
